@@ -44,6 +44,8 @@ Weekly activity
 Revenue contribution by dependent count and education shows deeper customer profiling.
 
 <img width="1327" height="741" alt="image" src="https://github.com/user-attachments/assets/2163bc21-530b-4da6-a1ea-c66e8073dadf" />
+
+
 <img width="1327" height="729" alt="image" src="https://github.com/user-attachments/assets/2f541bc2-2249-4643-ae39-5d2fc3a6a22e" />
 
 💡 Tools & Techniques Used
